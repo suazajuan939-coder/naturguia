@@ -113,7 +113,7 @@ header {
     color: white;
     position: relative;
     background: linear-gradient(rgba(4,20,14,.55), rgba(4,20,14,.82)),
-                url("img/baner7.JPG");
+                url("img/baner7.jpg");
     background-size: cover;
     background-position: center;
 }
